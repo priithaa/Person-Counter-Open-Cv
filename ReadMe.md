@@ -6,7 +6,6 @@
 
 1. Libraries used - OpenCv, Dlib, imutils, numpy
 
-
 The following program uses two techniques to count people present walking in the video.
 1. Object Detection
 2. object Tracking
